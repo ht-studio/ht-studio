@@ -1,7 +1,6 @@
 backend:
   name: github
   repo: ht-studio
-  base_url: https://dapper-alfajores-dbf658.netlify.app/
   branch: main
 
 local_backend: true
