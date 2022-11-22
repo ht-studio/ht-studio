@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ht-studio
+  repo: ht-studio/ht-studio
   branch: main
 
 local_backend: true
