@@ -1,6 +1,7 @@
 backend:
   name: github
-  repo: jimmybutton/gatsby-netlifycms-tailwind-starter
+  repo: ht-studio
+  base_url: https://dapper-alfajores-dbf658.netlify.app/
   branch: main
 
 local_backend: true
