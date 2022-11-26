@@ -13,11 +13,16 @@ const IndexPageTemplate = ({
   about,
 }) => {
   return (
+    <div>
       {/* Header */}
-      
+
       {/* Featured projects */}
 
+
       {/* About section */}
+
+    </div>
+
   )
 }
 
