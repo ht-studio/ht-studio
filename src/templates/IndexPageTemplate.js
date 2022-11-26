@@ -23,11 +23,11 @@ const IndexPageTemplate = ({
         <div class="flex justify-start lg:w-0 lg:flex-1">
           <a href="#">
             <span class="sr-only">How To Get Men to Chase You</span>
-            <img class="h-8 w-auto sm:h-10" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" alt="" />
+            <img class="h-8 w-auto sm:h-10" src="https://tailwindui.com/img/logos/mark.svg?color=pink&shade=600" alt="" />
           </a>
         </div>
         <div class="-my-2 -mr-2 md:hidden">
-          <button type="button" class="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
+          <button type="button" class="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-pink-500" aria-expanded="false">
             <span class="sr-only">Open menu</span>
             <!-- Heroicon name: outline/bars-3 -->
             <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
@@ -38,7 +38,7 @@ const IndexPageTemplate = ({
         <nav class="hidden space-x-10 md:flex">
           <div class="relative">
             <!-- Item active: "text-gray-900", Item inactive: "text-gray-500" -->
-            <button type="button" class="group inline-flex items-center rounded-md bg-white text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2" aria-expanded="false">
+            <button type="button" class="group inline-flex items-center rounded-md bg-white text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-offset-2" aria-expanded="false">
               <span>Solutions</span>
               <!--
                 Heroicon name: mini/chevron-down
@@ -56,7 +56,7 @@ const IndexPageTemplate = ({
 
           <div class="relative">
             <!-- Item active: "text-gray-900", Item inactive: "text-gray-500" -->
-            <button type="button" class="group inline-flex items-center rounded-md bg-white text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2" aria-expanded="false">
+            <button type="button" class="group inline-flex items-center rounded-md bg-white text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-offset-2" aria-expanded="false">
               <span>More</span>
               <!--
                 Heroicon name: mini/chevron-down
@@ -71,7 +71,7 @@ const IndexPageTemplate = ({
         </nav>
         <div class="hidden items-center justify-end md:flex md:flex-1 lg:w-0">
           <a href="#" class="whitespace-nowrap text-base font-medium text-gray-500 hover:text-gray-900">Sign in</a>
-          <a href="#" class="ml-8 inline-flex items-center justify-center whitespace-nowrap rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-base font-medium text-white shadow-sm hover:bg-indigo-700">Sign up</a>
+          <a href="#" class="ml-8 inline-flex items-center justify-center whitespace-nowrap rounded-md border border-transparent bg-pink-600 px-4 py-2 text-base font-medium text-white shadow-sm hover:bg-pink-700">Sign up</a>
         </div>
       </div>
     </div>
@@ -87,10 +87,10 @@ const IndexPageTemplate = ({
         <p class="mx-auto mt-3 max-w-md text-lg text-gray-500 sm:text-xl md:mt-5 md:max-w-3xl">Learn the secrets on how to make any man (friend, ex, boyfriend, or husband) fall deeply and madly in love with you, for the first time or all over again.</p>
         <div class="mt-10 sm:flex sm:justify-center lg:justify-start">
           <div class="rounded-md shadow">
-            <a href="#" class="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-base font-medium text-white hover:bg-indigo-700 md:py-4 md:px-10 md:text-lg">Buy Now</a>
+            <a href="#" class="flex w-full items-center justify-center rounded-md border border-transparent bg-pink-600 px-8 py-3 text-base font-medium text-white hover:bg-pink-700 md:py-4 md:px-10 md:text-lg">Buy Now</a>
           </div>
           <div class="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
-            <a href="#" class="flex w-full items-center justify-center rounded-md border border-transparent bg-white px-8 py-3 text-base font-medium text-indigo-600 hover:bg-gray-50 md:py-4 md:px-10 md:text-lg">Learn More</a>
+            <a href="#" class="flex w-full items-center justify-center rounded-md border border-transparent bg-white px-8 py-3 text-base font-medium text-pink-600 hover:bg-gray-50 md:py-4 md:px-10 md:text-lg">Learn More</a>
           </div>
         </div>
       </div>
@@ -105,7 +105,7 @@ const IndexPageTemplate = ({
 
       <div class="relative bg-white py-24 sm:py-32 lg:py-40">
   <div class="mx-auto max-w-md px-6 text-center sm:max-w-3xl lg:max-w-7xl lg:px-8">
-    <h2 class="text-lg font-semibold text-indigo-600">Deploy faster</h2>
+    <h2 class="text-lg font-semibold text-pink-600">Deploy faster</h2>
     <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Men don’t fall in love with our bodies, they fall in love with our hearts & souls.</p>
     <p class="mx-auto mt-5 max-w-prose text-xl text-gray-500">Everything you’ve heard about the life-changing effects of this book have been experienced by many. Today, we’re giving you the culmination of 20 years of wisdom</p>
     <div class="mt-20">
@@ -114,7 +114,7 @@ const IndexPageTemplate = ({
           <div class="flow-root rounded-lg bg-gray-50 px-6 pb-8">
             <div class="-mt-6">
               <div>
-                <span class="inline-flex items-center justify-center rounded-xl bg-indigo-500 p-3 shadow-lg">
+                <span class="inline-flex items-center justify-center rounded-xl bg-pink-500 p-3 shadow-lg">
                   <!-- Heroicon name: outline/cloud-arrow-up -->
                   <svg class="h-8 w-8 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M12 16.5V9.75m0 0l3 3m-3-3l-3 3M6.75 19.5a4.5 4.5 0 01-1.41-8.775 5.25 5.25 0 0110.233-2.33 3 3 0 013.758 3.848A3.752 3.752 0 0118 19.5H6.75z" />
@@ -131,7 +131,7 @@ const IndexPageTemplate = ({
           <div class="flow-root rounded-lg bg-gray-50 px-6 pb-8">
             <div class="-mt-6">
               <div>
-                <span class="inline-flex items-center justify-center rounded-xl bg-indigo-500 p-3 shadow-lg">
+                <span class="inline-flex items-center justify-center rounded-xl bg-pink-500 p-3 shadow-lg">
                   <!-- Heroicon name: outline/lock-closed -->
                   <svg class="h-8 w-8 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
@@ -148,7 +148,7 @@ const IndexPageTemplate = ({
           <div class="flow-root rounded-lg bg-gray-50 px-6 pb-8">
             <div class="-mt-6">
               <div>
-                <span class="inline-flex items-center justify-center rounded-xl bg-indigo-500 p-3 shadow-lg">
+                <span class="inline-flex items-center justify-center rounded-xl bg-pink-500 p-3 shadow-lg">
                   <!-- Heroicon name: outline/arrow-path -->
                   <svg class="h-8 w-8 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12c0-1.232.046-2.453.138-3.662a4.006 4.006 0 013.7-3.7 48.678 48.678 0 017.324 0 4.006 4.006 0 013.7 3.7c.017.22.032.441.046.662M4.5 12l-3-3m3 3l3-3m12 3c0 1.232-.046 2.453-.138 3.662a4.006 4.006 0 01-3.7 3.7 48.657 48.657 0 01-7.324 0 4.006 4.006 0 01-3.7-3.7c-.017-.22-.032-.441-.046-.662M19.5 12l-3 3m3-3l3 3" />
@@ -165,7 +165,7 @@ const IndexPageTemplate = ({
           <div class="flow-root rounded-lg bg-gray-50 px-6 pb-8">
             <div class="-mt-6">
               <div>
-                <span class="inline-flex items-center justify-center rounded-xl bg-indigo-500 p-3 shadow-lg">
+                <span class="inline-flex items-center justify-center rounded-xl bg-pink-500 p-3 shadow-lg">
                   <!-- Heroicon name: outline/shield-check -->
                   <svg class="h-8 w-8 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z" />
@@ -182,7 +182,7 @@ const IndexPageTemplate = ({
           <div class="flow-root rounded-lg bg-gray-50 px-6 pb-8">
             <div class="-mt-6">
               <div>
-                <span class="inline-flex items-center justify-center rounded-xl bg-indigo-500 p-3 shadow-lg">
+                <span class="inline-flex items-center justify-center rounded-xl bg-pink-500 p-3 shadow-lg">
                   <!-- Heroicon name: outline/cog -->
                   <svg class="h-8 w-8 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12a7.5 7.5 0 0015 0m-15 0a7.5 7.5 0 1115 0m-15 0H3m16.5 0H21m-1.5 0H12m-8.457 3.077l1.41-.513m14.095-5.13l1.41-.513M5.106 17.785l1.15-.964m11.49-9.642l1.149-.964M7.501 19.795l.75-1.3m7.5-12.99l.75-1.3m-6.063 16.658l.26-1.477m2.605-14.772l.26-1.477m0 17.726l-.26-1.477M10.698 4.614l-.26-1.477M16.5 19.794l-.75-1.299M7.5 4.205L12 12m6.894 5.785l-1.149-.964M6.256 7.178l-1.15-.964m15.352 8.864l-1.41-.513M4.954 9.435l-1.41-.514M12.002 12l-3.75 6.495" />
@@ -199,7 +199,7 @@ const IndexPageTemplate = ({
           <div class="flow-root rounded-lg bg-gray-50 px-6 pb-8">
             <div class="-mt-6">
               <div>
-                <span class="inline-flex items-center justify-center rounded-xl bg-indigo-500 p-3 shadow-lg">
+                <span class="inline-flex items-center justify-center rounded-xl bg-pink-500 p-3 shadow-lg">
                   <!-- Heroicon name: outline/server -->
                   <svg class="h-8 w-8 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 17.25v-.228a4.5 4.5 0 00-.12-1.03l-2.268-9.64a3.375 3.375 0 00-3.285-2.602H7.923a3.375 3.375 0 00-3.285 2.602l-2.268 9.64a4.5 4.5 0 00-.12 1.03v.228m19.5 0a3 3 0 01-3 3H5.25a3 3 0 01-3-3m19.5 0a3 3 0 00-3-3H5.25a3 3 0 00-3 3m16.5 0h.008v.008h-.008v-.008zm-3 0h.008v.008h-.008v-.008z" />
@@ -218,7 +218,7 @@ const IndexPageTemplate = ({
 
 <section class="bg-pink-900">
   <div class="mx-auto max-w-7xl md:grid md:grid-cols-2 md:px-6 lg:px-8">
-    <div class="py-12 px-4 sm:px-6 md:flex md:flex-col md:border-r md:border-indigo-900 md:py-16 md:pl-0 md:pr-10 lg:pr-16">
+    <div class="py-12 px-4 sm:px-6 md:flex md:flex-col md:border-r md:border-pink-900 md:py-16 md:pl-0 md:pr-10 lg:pr-16">
       <div class="md:flex-shrink-0"></div>
       <blockquote class="mt-6 md:flex md:flex-grow md:flex-col">
         <div class="relative text-lg font-medium text-white md:flex-grow">
@@ -369,7 +369,7 @@ const IndexPageTemplate = ({
           <input id="email-address" name="email-address" type="email" autocomplete="email" required class="w-full rounded-md border-white px-5 py-3 placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-pink-700" placeholder="Enter your email" />
           <button type="submit" class="mt-3 flex w-full items-center justify-center rounded-md border border-transparent bg-pink-500 px-5 py-3 text-base font-medium text-white shadow hover:bg-pink-400 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-pink-700 sm:mt-0 sm:ml-3 sm:w-auto sm:flex-shrink-0">Join Now</button>
         </form>
-        <p class="mt-3 text-sm text-indigo-200">
+        <p class="mt-3 text-sm text-pink-200">
           We care about the protection of your data. Read our
           <a href="#" class="font-medium text-white underline">Privacy Policy.</a>
         </p>
@@ -394,7 +394,7 @@ const IndexPageTemplate = ({
         </div>
         <div class="flex flex-1 flex-col justify-between bg-white p-6">
           <div class="flex-1">
-            <p class="text-sm font-medium text-indigo-600">
+            <p class="text-sm font-medium text-pink-600">
               <a href="#" class="hover:underline">Article</a>
             </p>
             <a href="#" class="mt-2 block">
@@ -429,7 +429,7 @@ const IndexPageTemplate = ({
         </div>
         <div class="flex flex-1 flex-col justify-between bg-white p-6">
           <div class="flex-1">
-            <p class="text-sm font-medium text-indigo-600">
+            <p class="text-sm font-medium text-pink-600">
               <a href="#" class="hover:underline">Video</a>
             </p>
             <a href="#" class="mt-2 block">
@@ -464,7 +464,7 @@ const IndexPageTemplate = ({
         </div>
         <div class="flex flex-1 flex-col justify-between bg-white p-6">
           <div class="flex-1">
-            <p class="text-sm font-medium text-indigo-600">
+            <p class="text-sm font-medium text-pink-600">
               <a href="#" class="hover:underline">Case Study</a>
             </p>
             <a href="#" class="mt-2 block">
